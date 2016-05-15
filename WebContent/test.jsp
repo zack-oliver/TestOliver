@@ -8,6 +8,6 @@
 </head>
 <body>
 AAA
-a
+<% // out.println("test"); %>
 </body>
 </html>
