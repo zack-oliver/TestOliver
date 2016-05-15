@@ -8,5 +8,6 @@
 </head>
 <body>
 AAA
+<%out.println("test"); %>
 </body>
 </html>
